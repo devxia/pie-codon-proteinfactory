@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Windows App Runtime",
+    "version": "2.7.0",
+    "file": "windowsappruntimeinstall-x64.exe",
+    "url": "https://aka.ms/windowsappsdk/2.7/2.7.0/windowsappruntimeinstall-x64.exe",
+    "sha256": "ed1ac8aa9497473389a288017c7fc352c382ba8df6c08f36ddb5815bff283b2a"
+  },
+  {
+    "name": "Visual C++ Redistributable",
+    "version": "14.52.37029.0",
+    "file": "vc_redist.x64.exe",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/78d061c5-9ef3-42ab-98ed-3309d1095dc4/9C02C9ED120F671B900E6B9471D890E3B2414117A7E53F4AE2E855466FA2B7C9/VC_redist.x64.exe",
+    "sha256": "9c02c9ed120f671b900e6b9471d890e3b2414117a7e53f4ae2e855466fa2b7c9"
+  }
+]

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="NewBatch" xml:space="preserve"><value>新建批次</value></data>
+  <data name="History" xml:space="preserve"><value>历史</value></data>
+  <data name="Presets" xml:space="preserve"><value>预设</value></data>
+  <data name="Settings" xml:space="preserve"><value>设置</value></data>
+  <data name="BatchName" xml:space="preserve"><value>批次名称</value></data>
+  <data name="Paste" xml:space="preserve"><value>蛋白序列或 FASTA 文本</value></data>
+  <data name="Gene" xml:space="preserve"><value>单条粘贴序列的名称</value></data>
+  <data name="ImportFile" xml:space="preserve"><value>导入文件…</value></data>
+  <data name="UsePaste" xml:space="preserve"><value>使用粘贴文本</value></data>
+  <data name="Drop" xml:space="preserve"><value>拖入 FASTA、CSV、TSV 或 XLSX 文件</value></data>
+  <data name="Parameters" xml:space="preserve"><value>优化参数</value></data>
+  <data name="Host" xml:space="preserve"><value>物种</value></data>
+  <data name="Start" xml:space="preserve"><value>起始密码子</value></data>
+  <data name="StopPolicy" xml:space="preserve"><value>终止密码子</value></data>
+  <data name="Motifs" xml:space="preserve"><value>自定义避免 motif</value></data>
+  <data name="Enzymes" xml:space="preserve"><value>避免限制酶位点</value></data>
+  <data name="Preview" xml:space="preserve"><value>准备预览</value></data>
+  <data name="PreviewTitle" xml:space="preserve"><value>批次预览</value></data>
+  <data name="Valid" xml:space="preserve"><value>有效</value></data>
+  <data name="Invalid" xml:space="preserve"><value>无效</value></data>
+  <data name="Validated" xml:space="preserve"><value>{0} 条有效 · {1} 条无效</value></data>
+  <data name="SourceLine" xml:space="preserve"><value>来源第 {0} 行</value></data>
+  <data name="SaveDraft" xml:space="preserve"><value>保存本地草稿</value></data>
+  <data name="Send" xml:space="preserve"><value>提交优化</value></data>
+  <data name="SendConfirm" xml:space="preserve"><value>将此批次的蛋白序列和优化参数发送给配置的服务？</value></data>
+  <data name="Back" xml:space="preserve"><value>返回批次</value></data>
+  <data name="Cancel" xml:space="preserve"><value>取消</value></data>
+  <data name="Confirm" xml:space="preserve"><value>确认</value></data>
+  <data name="Saved" xml:space="preserve"><value>已保存本地草稿。</value></data>
+  <data name="Queued" xml:space="preserve"><value>批次已加入队列。</value></data>
+  <data name="Worksheet" xml:space="preserve"><value>工作表</value></data>
+  <data name="Header" xml:space="preserve"><value>首行是表头</value></data>
+  <data name="NameColumn" xml:space="preserve"><value>名称列</value></data>
+  <data name="SequenceColumn" xml:space="preserve"><value>序列列</value></data>
+  <data name="SaveImportPreset" xml:space="preserve"><value>保存导入预设…</value></data>
+  <data name="SaveParameterPreset" xml:space="preserve"><value>保存参数预设…</value></data>
+  <data name="ImportPresets" xml:space="preserve"><value>导入预设</value></data>
+  <data name="ParameterPresets" xml:space="preserve"><value>参数预设</value></data>
+  <data name="Apply" xml:space="preserve"><value>应用</value></data>
+  <data name="Delete" xml:space="preserve"><value>删除</value></data>
+  <data name="DeleteConfirm" xml:space="preserve"><value>从本地工作区删除此项目？</value></data>
+  <data name="PresetName" xml:space="preserve"><value>预设名称</value></data>
+  <data name="Search" xml:space="preserve"><value>搜索批次名称</value></data>
+  <data name="Status" xml:space="preserve"><value>状态</value></data>
+  <data name="All" xml:space="preserve"><value>全部状态</value></data>
+  <data name="Sort" xml:space="preserve"><value>排序方式</value></data>
+  <data name="UpdatedNewest" xml:space="preserve"><value>最近更新</value></data>
+  <data name="CreatedNewest" xml:space="preserve"><value>最近创建</value></data>
+  <data name="Name" xml:space="preserve"><value>名称</value></data>
+  <data name="From" xml:space="preserve"><value>开始日期</value></data>
+  <data name="Until" xml:space="preserve"><value>结束日期</value></data>
+  <data name="Filter" xml:space="preserve"><value>应用筛选</value></data>
+  <data name="Refresh" xml:space="preserve"><value>刷新</value></data>
+  <data name="More" xml:space="preserve"><value>加载更多</value></data>
+  <data name="NoBatches" xml:space="preserve"><value>没有符合条件的批次。</value></data>
+  <data name="Records" xml:space="preserve"><value>记录</value></data>
+  <data name="Attempts" xml:space="preserve"><value>请求尝试</value></data>
+  <data name="Stop" xml:space="preserve"><value>停止批次</value></data>
+  <data name="StopConfirm" xml:space="preserve"><value>停止此批次？服务器可能已经处理了在途请求。</value></data>
+  <data name="Retry" xml:space="preserve"><value>重试</value></data>
+  <data name="RetryConfirm" xml:space="preserve"><value>重试此批次尚未完成的记录？</value></data>
+  <data name="UnknownConfirm" xml:space="preserve"><value>服务器可能已处理这些请求。核对结果未知的记录后继续重试？</value></data>
+  <data name="Fasta" xml:space="preserve"><value>原始蛋白 FASTA</value></data>
+  <data name="Csv" xml:space="preserve"><value>已校验 DNA CSV</value></data>
+  <data name="Zip" xml:space="preserve"><value>审计 ZIP</value></data>
+  <data name="Copy" xml:space="preserve"><value>复制 DNA</value></data>
+  <data name="Copied" xml:space="preserve"><value>已复制 DNA。</value></data>
+  <data name="ShowResponse" xml:space="preserve"><value>显示响应正文</value></data>
+  <data name="Previous" xml:space="preserve"><value>上一页</value></data>
+  <data name="Next" xml:space="preserve"><value>下一页</value></data>
+  <data name="Page" xml:space="preserve"><value>第 {0} 页 / 共 {1} 页</value></data>
+  <data name="NoResponse" xml:space="preserve"><value>没有保存响应正文。</value></data>
+  <data name="EmptyResponse" xml:space="preserve"><value>保存的响应正文为空。</value></data>
+  <data name="MissingAttempt" xml:space="preserve"><value>请求尝试已不存在。</value></data>
+  <data name="Language" xml:space="preserve"><value>语言</value></data>
+  <data name="Theme" xml:space="preserve"><value>外观</value></data>
+  <data name="System" xml:space="preserve"><value>跟随系统</value></data>
+  <data name="Light" xml:space="preserve"><value>浅色</value></data>
+  <data name="Dark" xml:space="preserve"><value>深色</value></data>
+  <data name="OpenData" xml:space="preserve"><value>打开数据目录</value></data>
+  <data name="DataExplanation" xml:space="preserve"><value>草稿、历史、DNA 和响应正文保存在本地工作区。确认提交后，输入数据会发送到服务。审计 ZIP 不含 DNA 或响应正文。</value></data>
+  <data name="Prepared" xml:space="preserve"><value>本地草稿</value></data>
+  <data name="Running" xml:space="preserve"><value>处理中</value></data>
+  <data name="Completed" xml:space="preserve"><value>已完成</value></data>
+  <data name="Partial" xml:space="preserve"><value>部分完成</value></data>
+  <data name="Failed" xml:space="preserve"><value>失败</value></data>
+  <data name="Stopped" xml:space="preserve"><value>已停止</value></data>
+  <data name="Unknown" xml:space="preserve"><value>未知</value></data>
+  <data name="Pending" xml:space="preserve"><value>待处理</value></data>
+  <data name="Dispatching" xml:space="preserve"><value>发送中</value></data>
+  <data name="None" xml:space="preserve"><value>不添加</value></data>
+  <data name="Always" xml:space="preserve"><value>添加 ATG 到 DNA</value></data>
+  <data name="IfNotMethionine" xml:space="preserve"><value>蛋白不以 M 开头时添加</value></data>
+  <data name="Preserve" xml:space="preserve"><value>保留输入</value></data>
+  <data name="Add" xml:space="preserve"><value>缺失时添加</value></data>
+  <data name="NoValid" xml:space="preserve"><value>没有可用于预览的有效记录。</value></data>
+  <data name="Exported" xml:space="preserve"><value>已保存导出文件。</value></data>
+  <data name="Formulas" xml:space="preserve"><value>公式单元格使用工作簿中保存的值。</value></data>
+  <data name="NoPreset" xml:space="preserve"><value>没有已保存的预设。</value></data>
+  <data name="SelectMapping" xml:space="preserve"><value>请选择不同的名称列和序列列。</value></data>
+  <data name="Version" xml:space="preserve"><value>版本 {0}</value></data>
+  <data name="Sequence" xml:space="preserve"><value>蛋白序列</value></data>
+  <data name="Submitted" xml:space="preserve"><value>拟提交序列</value></data>
+  <data name="Endpoint" xml:space="preserve"><value>接收方地址</value></data>
+  <data name="Result" xml:space="preserve"><value>已验证 DNA</value></data>
+  <data name="TryAgain" xml:space="preserve"><value>请核对提示后重试。</value></data>
+  <data name="FastaFile" xml:space="preserve"><value>序列文件</value></data>
+  <data name="Nav" xml:space="preserve"><value>工作区导航</value></data>
+  <data name="Original" xml:space="preserve"><value>原始蛋白</value></data>
+  <data name="Smoke" xml:space="preserve"><value>模拟服务</value></data>
+  <data name="Close" xml:space="preserve"><value>关闭</value></data>
+  <data name="Reset" xml:space="preserve"><value>重置草稿</value></data>
+  <data name="ResetConfirm" xml:space="preserve"><value>清空当前编辑内容？已保存的草稿会保留。</value></data>
+  <data name="stopped_by_user" xml:space="preserve"><value>已手动停止。</value></data>
+  <data name="application_exiting" xml:space="preserve"><value>因应用退出而停止。</value></data>
+  <data name="recovered_after_interruption" xml:space="preserve"><value>已从中断中恢复。</value></data>
+  <data name="interrupted_dispatch" xml:space="preserve"><value>应用中断后，请求结果未知。</value></data>
+  <data name="service_paused_queue" xml:space="preserve"><value>服务响应导致队列暂停。</value></data>
+  <data name="audit_budget_reached" xml:space="preserve"><value>批次已达到请求审计存储上限。</value></data>
+  <data name="attempt_limit_reached" xml:space="preserve"><value>有记录已达到尝试次数上限。</value></data>
+  <data name="CancelledAfterDispatch" xml:space="preserve"><value>请求发出后已取消。服务器可能已处理。</value></data>
+  <data name="TimedOut" xml:space="preserve"><value>请求超时。</value></data>
+  <data name="TransportFailure" xml:space="preserve"><value>连接或响应正文传输中断。</value></data>
+  <data name="InvalidJson" xml:space="preserve"><value>响应不是有效的 JSON。</value></data>
+  <data name="OversizedResponse" xml:space="preserve"><value>响应超过 1 MiB。</value></data>
+  <data name="Unsuccessful" xml:space="preserve"><value>服务返回失败结果。</value></data>
+  <data name="MissingSuccess" xml:space="preserve"><value>响应缺少 success 字段。</value></data>
+  <data name="InvalidSequenceField" xml:space="preserve"><value>响应缺少可用的 DNA 序列字段。</value></data>
+  <data name="UnexpectedHttpStatus" xml:space="preserve"><value>该 HTTP 响应无法确认请求结果。</value></data>
+  <data name="Rejected" xml:space="preserve"><value>服务器拒绝了请求。</value></data>
+  <data name="NotSubmitted" xml:space="preserve"><value>请求未发送。</value></data>
+  <data name="EmptyData" xml:space="preserve"><value>没有可导入的记录。</value></data>
+  <data name="InvalidMapping" xml:space="preserve"><value>请检查工作表和选择的列。</value></data>
+  <data name="EmptyFile" xml:space="preserve"><value>输入为空。</value></data>
+  <data name="FileTooLarge" xml:space="preserve"><value>输入超过 5 MiB。</value></data>
+  <data name="InvalidWorkbook" xml:space="preserve"><value>XLSX 工作簿无效或含有不支持的内容。</value></data>
+  <data name="InvalidBatchName" xml:space="preserve"><value>请输入有效的批次名称。</value></data>
+  <data name="RecordCount" xml:space="preserve"><value>每个批次须包含 1 至 200 条记录。</value></data>
+  <data name="BatchTooLong" xml:space="preserve"><value>批次序列总长超过 200,000 个字符。</value></data>
+  <data name="StaleConfirmation" xml:space="preserve"><value>未知请求已发生变化，请重新核对并确认。</value></data>
+  <data name="Duplicate" xml:space="preserve"><value>此草稿已经提交或内容已改变。</value></data>
+  <data name="SequenceInput" xml:space="preserve"><value>序列输入</value></data>
+  <data name="Validation" xml:space="preserve"><value>记录校验</value></data>
+  <data name="InputEmpty" xml:space="preserve"><value>粘贴或导入序列后查看校验结果。</value></data>
+  <data name="PasteHint" xml:space="preserve"><value>粘贴蛋白序列或带标题的 FASTA 记录</value></data>
+  <data name="NoMotifs" xml:space="preserve"><value>未设置</value></data>
+  <data name="BatchDetails" xml:space="preserve"><value>批次详情</value></data>
+  <data name="AppearanceOptions" xml:space="preserve"><value>外观与语言</value></data>
+  <data name="LocalWorkspace" xml:space="preserve"><value>本地工作区</value></data>
+  <data name="Filters" xml:space="preserve"><value>筛选条件</value></data>
+  <data name="Batches" xml:space="preserve"><value>批次列表</value></data>
+  <data name="InputMode" xml:space="preserve"><value>输入方式</value></data>
+  <data name="PasteMode" xml:space="preserve"><value>粘贴</value></data>
+  <data name="FastaMode" xml:space="preserve"><value>FASTA 文件</value></data>
+  <data name="TableMode" xml:space="preserve"><value>表格文件</value></data>
+  <data name="EditorSubtitle" xml:space="preserve"><value>导入蛋白序列，核对记录并准备本地预览。</value></data>
+  <data name="FinalMotifs" xml:space="preserve"><value>最终基序</value></data>
+  <data name="OriginalLength" xml:space="preserve"><value>原始序列长度</value></data>
+  <data name="SubmittedLength" xml:space="preserve"><value>拟提交序列长度</value></data>
+  <data name="PreviewDetails" xml:space="preserve"><value>预览详情</value></data>
+  <data name="LocalUntilConfirmed" xml:space="preserve"><value>确认提交前，序列仅保存在本机。</value></data>
+</root>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="NewBatch" xml:space="preserve"><value>New batch</value></data>
+  <data name="History" xml:space="preserve"><value>History</value></data>
+  <data name="Presets" xml:space="preserve"><value>Presets</value></data>
+  <data name="Settings" xml:space="preserve"><value>Settings</value></data>
+  <data name="BatchName" xml:space="preserve"><value>Batch name</value></data>
+  <data name="Paste" xml:space="preserve"><value>Protein sequence or FASTA text</value></data>
+  <data name="Gene" xml:space="preserve"><value>Name for a single pasted sequence</value></data>
+  <data name="ImportFile" xml:space="preserve"><value>Import file…</value></data>
+  <data name="UsePaste" xml:space="preserve"><value>Use pasted text</value></data>
+  <data name="Drop" xml:space="preserve"><value>Drop a FASTA, CSV, TSV or XLSX file here</value></data>
+  <data name="Parameters" xml:space="preserve"><value>Optimization parameters</value></data>
+  <data name="Host" xml:space="preserve"><value>Species</value></data>
+  <data name="Start" xml:space="preserve"><value>Start codon</value></data>
+  <data name="StopPolicy" xml:space="preserve"><value>Terminal stop</value></data>
+  <data name="Motifs" xml:space="preserve"><value>Custom motifs to avoid</value></data>
+  <data name="Enzymes" xml:space="preserve"><value>Avoid restriction enzyme sites</value></data>
+  <data name="Preview" xml:space="preserve"><value>Prepare preview</value></data>
+  <data name="PreviewTitle" xml:space="preserve"><value>Batch preview</value></data>
+  <data name="Valid" xml:space="preserve"><value>Valid</value></data>
+  <data name="Invalid" xml:space="preserve"><value>Invalid</value></data>
+  <data name="Validated" xml:space="preserve"><value>{0} valid · {1} rejected</value></data>
+  <data name="SourceLine" xml:space="preserve"><value>Source row {0}</value></data>
+  <data name="SaveDraft" xml:space="preserve"><value>Save local draft</value></data>
+  <data name="Send" xml:space="preserve"><value>Submit optimization</value></data>
+  <data name="SendConfirm" xml:space="preserve"><value>Send the protein sequences and optimization parameters in this batch to the configured service?</value></data>
+  <data name="Back" xml:space="preserve"><value>Back to batch</value></data>
+  <data name="Cancel" xml:space="preserve"><value>Cancel</value></data>
+  <data name="Confirm" xml:space="preserve"><value>Confirm</value></data>
+  <data name="Saved" xml:space="preserve"><value>Local draft saved.</value></data>
+  <data name="Queued" xml:space="preserve"><value>Batch queued.</value></data>
+  <data name="Worksheet" xml:space="preserve"><value>Worksheet</value></data>
+  <data name="Header" xml:space="preserve"><value>First row is a header</value></data>
+  <data name="NameColumn" xml:space="preserve"><value>Name column</value></data>
+  <data name="SequenceColumn" xml:space="preserve"><value>Sequence column</value></data>
+  <data name="SaveImportPreset" xml:space="preserve"><value>Save import preset…</value></data>
+  <data name="SaveParameterPreset" xml:space="preserve"><value>Save parameter preset…</value></data>
+  <data name="ImportPresets" xml:space="preserve"><value>Import presets</value></data>
+  <data name="ParameterPresets" xml:space="preserve"><value>Parameter presets</value></data>
+  <data name="Apply" xml:space="preserve"><value>Apply</value></data>
+  <data name="Delete" xml:space="preserve"><value>Delete</value></data>
+  <data name="DeleteConfirm" xml:space="preserve"><value>Delete this item from the local workspace?</value></data>
+  <data name="PresetName" xml:space="preserve"><value>Preset name</value></data>
+  <data name="Search" xml:space="preserve"><value>Search by batch name</value></data>
+  <data name="Status" xml:space="preserve"><value>Status</value></data>
+  <data name="All" xml:space="preserve"><value>All statuses</value></data>
+  <data name="Sort" xml:space="preserve"><value>Sort by</value></data>
+  <data name="UpdatedNewest" xml:space="preserve"><value>Recently updated</value></data>
+  <data name="CreatedNewest" xml:space="preserve"><value>Recently created</value></data>
+  <data name="Name" xml:space="preserve"><value>Name</value></data>
+  <data name="From" xml:space="preserve"><value>From date</value></data>
+  <data name="Until" xml:space="preserve"><value>Through date</value></data>
+  <data name="Filter" xml:space="preserve"><value>Apply filters</value></data>
+  <data name="Refresh" xml:space="preserve"><value>Refresh</value></data>
+  <data name="More" xml:space="preserve"><value>Load more</value></data>
+  <data name="NoBatches" xml:space="preserve"><value>No matching batches.</value></data>
+  <data name="Records" xml:space="preserve"><value>Records</value></data>
+  <data name="Attempts" xml:space="preserve"><value>Request attempts</value></data>
+  <data name="Stop" xml:space="preserve"><value>Stop batch</value></data>
+  <data name="StopConfirm" xml:space="preserve"><value>Stop this batch? The service may already have processed an in-flight request.</value></data>
+  <data name="Retry" xml:space="preserve"><value>Retry</value></data>
+  <data name="RetryConfirm" xml:space="preserve"><value>Retry the unfinished records in this batch?</value></data>
+  <data name="UnknownConfirm" xml:space="preserve"><value>The service may already have processed these attempts. Retry after reviewing the unknown records?</value></data>
+  <data name="Fasta" xml:space="preserve"><value>Original FASTA</value></data>
+  <data name="Csv" xml:space="preserve"><value>Verified DNA CSV</value></data>
+  <data name="Zip" xml:space="preserve"><value>Audit ZIP</value></data>
+  <data name="Copy" xml:space="preserve"><value>Copy DNA</value></data>
+  <data name="Copied" xml:space="preserve"><value>DNA copied.</value></data>
+  <data name="ShowResponse" xml:space="preserve"><value>Show response body</value></data>
+  <data name="Previous" xml:space="preserve"><value>Previous page</value></data>
+  <data name="Next" xml:space="preserve"><value>Next page</value></data>
+  <data name="Page" xml:space="preserve"><value>Page {0} of {1}</value></data>
+  <data name="NoResponse" xml:space="preserve"><value>No response body was stored.</value></data>
+  <data name="EmptyResponse" xml:space="preserve"><value>The stored response is empty.</value></data>
+  <data name="MissingAttempt" xml:space="preserve"><value>The request attempt no longer exists.</value></data>
+  <data name="Language" xml:space="preserve"><value>Language</value></data>
+  <data name="Theme" xml:space="preserve"><value>Appearance</value></data>
+  <data name="System" xml:space="preserve"><value>System</value></data>
+  <data name="Light" xml:space="preserve"><value>Light</value></data>
+  <data name="Dark" xml:space="preserve"><value>Dark</value></data>
+  <data name="OpenData" xml:space="preserve"><value>Open data folder</value></data>
+  <data name="DataExplanation" xml:space="preserve"><value>Drafts, history, DNA and response bodies are saved in this workspace. Submission sends confirmed inputs to the service. Audit ZIP files omit DNA and response bodies.</value></data>
+  <data name="Prepared" xml:space="preserve"><value>Local draft</value></data>
+  <data name="Running" xml:space="preserve"><value>Running</value></data>
+  <data name="Completed" xml:space="preserve"><value>Completed</value></data>
+  <data name="Partial" xml:space="preserve"><value>Partial</value></data>
+  <data name="Failed" xml:space="preserve"><value>Failed</value></data>
+  <data name="Stopped" xml:space="preserve"><value>Stopped</value></data>
+  <data name="Unknown" xml:space="preserve"><value>Unknown</value></data>
+  <data name="Pending" xml:space="preserve"><value>Pending</value></data>
+  <data name="Dispatching" xml:space="preserve"><value>Dispatching</value></data>
+  <data name="None" xml:space="preserve"><value>None</value></data>
+  <data name="Always" xml:space="preserve"><value>Always add ATG to DNA</value></data>
+  <data name="IfNotMethionine" xml:space="preserve"><value>Add if the protein does not begin with M</value></data>
+  <data name="Preserve" xml:space="preserve"><value>Preserve input</value></data>
+  <data name="Add" xml:space="preserve"><value>Add if missing</value></data>
+  <data name="NoValid" xml:space="preserve"><value>There are no valid records to prepare.</value></data>
+  <data name="Exported" xml:space="preserve"><value>Export saved.</value></data>
+  <data name="Formulas" xml:space="preserve"><value>Cells with formulas use the workbook's saved values.</value></data>
+  <data name="NoPreset" xml:space="preserve"><value>No saved presets.</value></data>
+  <data name="SelectMapping" xml:space="preserve"><value>Choose different name and sequence columns.</value></data>
+  <data name="Version" xml:space="preserve"><value>Version {0}</value></data>
+  <data name="Sequence" xml:space="preserve"><value>Protein sequence</value></data>
+  <data name="Submitted" xml:space="preserve"><value>Prepared sequence</value></data>
+  <data name="Endpoint" xml:space="preserve"><value>Service endpoint</value></data>
+  <data name="Result" xml:space="preserve"><value>Verified DNA</value></data>
+  <data name="TryAgain" xml:space="preserve"><value>Review the message and try again.</value></data>
+  <data name="FastaFile" xml:space="preserve"><value>Sequence file</value></data>
+  <data name="Nav" xml:space="preserve"><value>Workspace navigation</value></data>
+  <data name="Original" xml:space="preserve"><value>Original protein</value></data>
+  <data name="Smoke" xml:space="preserve"><value>Simulated service</value></data>
+  <data name="Close" xml:space="preserve"><value>Close</value></data>
+  <data name="Reset" xml:space="preserve"><value>Reset draft</value></data>
+  <data name="ResetConfirm" xml:space="preserve"><value>Clear the current editor? Previously saved drafts are kept.</value></data>
+  <data name="stopped_by_user" xml:space="preserve"><value>Stopped by user.</value></data>
+  <data name="application_exiting" xml:space="preserve"><value>Stopped because the application closed.</value></data>
+  <data name="recovered_after_interruption" xml:space="preserve"><value>Recovered after interruption.</value></data>
+  <data name="interrupted_dispatch" xml:space="preserve"><value>The request outcome is unknown after interruption.</value></data>
+  <data name="service_paused_queue" xml:space="preserve"><value>The service response paused the queue.</value></data>
+  <data name="audit_budget_reached" xml:space="preserve"><value>Batch reached the request audit storage limit.</value></data>
+  <data name="attempt_limit_reached" xml:space="preserve"><value>A record reached the maximum number of attempts.</value></data>
+  <data name="CancelledAfterDispatch" xml:space="preserve"><value>Cancelled after dispatch. The service may have processed the request.</value></data>
+  <data name="TimedOut" xml:space="preserve"><value>The request timed out.</value></data>
+  <data name="TransportFailure" xml:space="preserve"><value>The connection or response body was interrupted.</value></data>
+  <data name="InvalidJson" xml:space="preserve"><value>The response was invalid JSON.</value></data>
+  <data name="OversizedResponse" xml:space="preserve"><value>The response exceeded 1 MiB.</value></data>
+  <data name="Unsuccessful" xml:space="preserve"><value>The service reported a failed result.</value></data>
+  <data name="MissingSuccess" xml:space="preserve"><value>The response lacks a success field.</value></data>
+  <data name="InvalidSequenceField" xml:space="preserve"><value>The response lacks a usable DNA sequence field.</value></data>
+  <data name="UnexpectedHttpStatus" xml:space="preserve"><value>The HTTP response does not establish the request outcome.</value></data>
+  <data name="Rejected" xml:space="preserve"><value>The service rejected the request.</value></data>
+  <data name="NotSubmitted" xml:space="preserve"><value>The request was not submitted.</value></data>
+  <data name="EmptyData" xml:space="preserve"><value>There are no records to import.</value></data>
+  <data name="InvalidMapping" xml:space="preserve"><value>Check the worksheet and selected columns.</value></data>
+  <data name="EmptyFile" xml:space="preserve"><value>The input is empty.</value></data>
+  <data name="FileTooLarge" xml:space="preserve"><value>The input exceeds 5 MiB.</value></data>
+  <data name="InvalidWorkbook" xml:space="preserve"><value>The XLSX workbook is invalid or contains unsupported content.</value></data>
+  <data name="InvalidBatchName" xml:space="preserve"><value>Enter a valid batch name.</value></data>
+  <data name="RecordCount" xml:space="preserve"><value>A batch must contain 1 to 200 records.</value></data>
+  <data name="BatchTooLong" xml:space="preserve"><value>The batch exceeds 200,000 sequence characters.</value></data>
+  <data name="StaleConfirmation" xml:space="preserve"><value>The unknown attempts changed. Review and confirm again.</value></data>
+  <data name="Duplicate" xml:space="preserve"><value>This draft was already submitted or has changed.</value></data>
+  <data name="SequenceInput" xml:space="preserve"><value>Sequence input</value></data>
+  <data name="Validation" xml:space="preserve"><value>Record validation</value></data>
+  <data name="InputEmpty" xml:space="preserve"><value>Paste or import sequences to check the records.</value></data>
+  <data name="PasteHint" xml:space="preserve"><value>Paste a protein sequence or FASTA records</value></data>
+  <data name="NoMotifs" xml:space="preserve"><value>None configured</value></data>
+  <data name="BatchDetails" xml:space="preserve"><value>Batch details</value></data>
+  <data name="AppearanceOptions" xml:space="preserve"><value>Appearance and language</value></data>
+  <data name="LocalWorkspace" xml:space="preserve"><value>Local workspace</value></data>
+  <data name="Filters" xml:space="preserve"><value>Filter options</value></data>
+  <data name="Batches" xml:space="preserve"><value>Batches</value></data>
+  <data name="InputMode" xml:space="preserve"><value>Input mode</value></data>
+  <data name="PasteMode" xml:space="preserve"><value>Paste</value></data>
+  <data name="FastaMode" xml:space="preserve"><value>FASTA file</value></data>
+  <data name="TableMode" xml:space="preserve"><value>Spreadsheet</value></data>
+  <data name="EditorSubtitle" xml:space="preserve"><value>Import protein sequences and review them before preparing a batch.</value></data>
+  <data name="FinalMotifs" xml:space="preserve"><value>Final motifs</value></data>
+  <data name="OriginalLength" xml:space="preserve"><value>Original length</value></data>
+  <data name="SubmittedLength" xml:space="preserve"><value>Prepared length</value></data>
+  <data name="PreviewDetails" xml:space="preserve"><value>Preview details</value></data>
+  <data name="LocalUntilConfirmed" xml:space="preserve"><value>Sequences stay local until you confirm submission.</value></data>
+</root>

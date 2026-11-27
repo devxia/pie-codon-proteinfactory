@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../CodonProteinFactory.Domain/CodonProteinFactory.Domain.csproj" />
+    <ProjectReference Include="../CodonProteinFactory.Persistence/CodonProteinFactory.Persistence.csproj" />
+    <ProjectReference Include="../CodonProteinFactory.Service/CodonProteinFactory.Service.csproj" />
+  </ItemGroup>
+</Project>

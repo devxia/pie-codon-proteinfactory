@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "native-contract-smoke",
+  "sequence": "m",
+  "species": "EscherichiaColi",
+  "stopPolicy": "Add",
+  "customMotifs": "gaattc，GGT(A/T)ACC",
+  "enzymes": ["EcoRI", "BamHI"]
+}
